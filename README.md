@@ -16,7 +16,7 @@ scalable, production-ready data platforms using cloud and analytics engineering 
 ---
 
 ### 🔧 What I work with
-- **Cloud & Data:** GCP, BigQuery, dbt, Apache Iceberg, Airflow  
+- **Cloud & Data:** AWS, GCP, dbt, Apache Iceberg, Airflow  
 - **Programming:** Python, SQL  
 - **Data Engineering:** analytics engineering, data modeling, data pipelines  
 - **Machine Learning:** applied ML for real-world data problems  
