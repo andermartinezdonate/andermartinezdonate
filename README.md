@@ -3,7 +3,7 @@
 **From Geophysicist to Data Engineer | Data • ML • Cloud Computing**
 
 I hold a PhD in Geophysics from the University of Manchester (UK) and previously worked
-in academia on energy systems characterization at The University of Texas at Austin (USA).
+in academia as Research Assistant Professor on energy systems characterization at The Bureau of Economic Geology at The University of Texas at Austin (USA).
 
 My growing interest in data and extracting insights from complex systems led me to
 deepen my technical skills with two master’s degrees — one in Machine Learning and
